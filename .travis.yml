@@ -1,2 +1,5 @@
+install:
+    - ./prereqs.sh
+
 script:
     - ./run-build.sh
