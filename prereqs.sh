@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-pip install boxsdk
+sudo pip install boxsdk
